@@ -1,6 +1,6 @@
 #TRABAJOS DE ELECTRONICA DE LA CARRERA DE INGENIERIA ELECTRONICA DE LA UNIVERSIDAD NUESTRA SEÑORA DE LA ASUNCION
 
-Actualmente en este repositorio hay 2 trabajos, los más interesantes realizados:
+Actualmente en este repositorio hay 3 trabajos, los más interesantes realizados, todos ellos fueron realizados en grupos de a dos personas:
 
 
 > De la cátedra de Electrónica 1: Una fuente tensión con corriente regulable.
